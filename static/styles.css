@@ -1,0 +1,28 @@
+.dark-mode {
+  background-color: rgb(44, 44, 44);
+  color: white;
+}
+
+.dark-mode .details {
+  border: 1px solid white;
+}
+
+.dark-mode #toggle-button {
+  background-color: rgb(44, 44, 44);
+  color: white;
+  border: 1px solid white;
+}
+
+#toggle-button {
+  border: 1px solid black;
+  height: 30px;
+  width: 100px;
+  border-radius: 5px;
+}
+
+.details {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 10px 10px;
+  margin-bottom: 20px;
+}
